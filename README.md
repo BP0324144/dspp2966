@@ -12,16 +12,10 @@ Associate Data Scientist with 1 year of hands-on experience in data analysis, vi
 - **Data Analysis & Visualization:** Pandas, Matplotlib, Seaborn
 - **Databases:** SQL, Data Querying & Optimization
 
-## Education 
-
-- Data Science and Public Policy Program
-
 ## Projects
+
+- **[Fitbit Project: Sleep Patterns & Physical Activity Analysis](https://github.com/BP0324144/dspp2966/blob/main/Fitbit_Project.ipynb)**
+  A comprehensive data analysis project exploring the relationship between daily sleep patterns and physical activity intensity to predict customer readiness for physical activities. Includes data cleaning, feature engineering, and machine learning models using Python and scikit-learn.
 
 - **[House Hunting the Data Scientist Way](https://medium.com/geoai/house-hunting-the-data-scientist-way-b32d93f5a42f)**
   A data-driven approach to real estate analysis using Python and geospatial visualization techniques to identify patterns in housing markets and inform property investment decisions.
-
-## Connect with Me
-
-- **GitHub:** [BP0324144](https://github.com/BP0324144)
-- **Medium:** [Data Science Articles](https://medium.com/geoai)
