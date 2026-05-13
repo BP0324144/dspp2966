@@ -42,7 +42,7 @@ A comprehensive data analysis project exploring the relationship between daily s
 - Data cleaning and preprocessing
 - Feature engineering (sleep efficiency calculation)
 - Exploratory data analysis with visualization
-- Machine learning models (Logistic Regression, Random Forest, XGBoost)
+- Machine learning models (Random Forest, XGBoost)
 - Model evaluation and performance metrics
 
 **Libraries:** Python • Pandas • Scikit-learn • XGBoost • Matplotlib • Seaborn
