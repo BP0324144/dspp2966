@@ -4,8 +4,6 @@
 
 Associate Data Scientist with 1 year of hands-on experience in data analysis, visualization, and deriving actionable insights from complex datasets. Passionate about using Python and SQL to solve real-world problems and support data-driven decision making.
 
-![Histogram](images/histogram-example-2.png)
-
 ## Skills
 
 - **Programming Languages:** Python, SQL
