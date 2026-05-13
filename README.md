@@ -1,6 +1,6 @@
 <div align="center">
 
-# 📊 Data Scientist
+# Data Scientist
 
 *<span style="color: #3498db">Associate Data Scientist | Python | SQL | Data Analysis</span>*
 
