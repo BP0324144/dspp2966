@@ -46,11 +46,3 @@ A comprehensive data analysis project exploring the relationship between daily s
 - Model evaluation and performance metrics
 
 **Libraries:** Python • Pandas • Scikit-learn • XGBoost • Matplotlib • Seaborn
-
----
-
-<div align="center">
-
-Built with ❤️ by [BP0324144](https://github.com/BP0324144)
-
-</div>
