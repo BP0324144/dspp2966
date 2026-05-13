@@ -45,7 +45,7 @@ A comprehensive data analysis project exploring the relationship between daily s
 - Machine learning models (Logistic Regression, Random Forest, XGBoost)
 - Model evaluation and performance metrics
 
-**Technologies:** Python • Pandas • Scikit-learn • XGBoost • Matplotlib • Seaborn
+**Libraries:** Python • Pandas • Scikit-learn • XGBoost • Matplotlib • Seaborn
 
 ---
 
